@@ -1,3 +1,3 @@
-# Hello-world
+# HELLO-WORLD
 This is my first program.
-so hello world.
+So HELLO WORLD.
